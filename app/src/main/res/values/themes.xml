@@ -13,4 +13,12 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="NewStyle" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#DA4525</item>
+        <item name="android:fontFamily">@font/homemade_apple</item>
+
+    </style>
+
 </resources>
